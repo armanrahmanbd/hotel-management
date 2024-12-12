@@ -1,2 +1,2 @@
 # hotel-management
-hotel management-system-in-python
+hotel management system in python
